@@ -1,4 +1,4 @@
 # Jointly-Learnt Networks for Future Action Anticipation via Self-Knowledge Distillation and Cycle Consistency
-This repo is an implementation of "Jointly-Learnt Networks for Future Action Anticipation via Self-Knowledge Distillation and Cycle Consistency". This repository contains a PyTorch implementation of our approach.
+This paper is accepted by IEEE-TCSVT
 
-Source code will be available soon.
+This project will be publicly available soon.
